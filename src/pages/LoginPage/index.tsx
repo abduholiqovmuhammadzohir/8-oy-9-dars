@@ -1,10 +1,10 @@
 
 
-const LoginPage = () => {
+const Guest = () => {
     return (
       <div>w3dejdj</div>
     );
   }
   
-  export default LoginPage;
+  export default Guest;
   

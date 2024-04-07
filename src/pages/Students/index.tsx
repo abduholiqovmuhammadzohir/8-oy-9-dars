@@ -1,9 +1,8 @@
-import React from 'react'
 
-function () {
+const Students = () => {
   return (
-    <div></div>
-  )
+    <div>w3dejdj</div>
+  );
 }
 
-export default 
+export default Students;

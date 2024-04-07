@@ -6,6 +6,7 @@ import Guest from './pages/Guest/index';
 import Teacher from './pages/Teacher/index';
 import ErrorPage from './pages/errorPage/index';
 import Students from './pages/Students/index';
+import LoginPage from './pages/Guest/index';
 
 function App() {
   const token = useSelector((state: any) => state.userToken.token);
