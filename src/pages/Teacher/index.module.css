@@ -1,0 +1,52 @@
+.home {
+    max-width: 1516px;
+    width: 100%;
+    margin: 40px auto;
+}
+
+.table,
+td {
+    border-bottom: 1px solid rgba(240, 240, 240, 1);
+    text-align: left;
+}
+
+td,
+th {
+    padding: 13px 0px;
+    padding-left: 20px;
+}
+
+th {
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 14px;
+    letter-spacing: -0.025em;
+    color: rgba(75, 75, 75, 1);
+}
+
+td {
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 16px;
+    letter-spacing: -0.025em;
+    color: rgba(37, 37, 37, 1);
+
+}
+
+.table {
+    width: 100%;
+    border-collapse: collapse;
+    border: 1px solid rgba(240, 240, 240, 1);
+    margin-top: 40px;
+}
+
+.thead {
+    background-color: #F9F8FA;
+}
+
+.id{
+    color: rgba(11, 56, 225, 1);
+}
+.group{
+    cursor: pointer;
+}
